@@ -1,0 +1,655 @@
+/* En-tête (header) */
+header {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+}
+
+header p {
+    margin: 0 0 20px 0;
+}
+
+/* Menu principal (nav) */
+nav a {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #0066cc;
+}
+
+/* Menu horizontal */
+#menuhori {
+    display: flex;
+    gap: 30px;
+}
+
+/* Section principale et menu latéral */
+main {
+    flex: 0 0 250px;
+    padding-right: 20px;
+}
+
+section {
+    flex: 1;
+}
+
+/* Articles avec images flottantes */
+article img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    max-width: 200px;
+    height: auto;
+}
+
+article {
+    clear: both;
+    margin-bottom: 30px;
+}
+
+/* Pied de page (footer) */
+footer {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer a:hover {
+    color: #0066cc;
+}
+/* En-tête (header) */
+header {
+    padding: 20px;
+}
+
+header h1 p {
+
+    background-color: red;
+    color: white;
+
+}
+/* Menu principal (nav) */
+nav a {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #0066cc;
+}
+
+/* Menu horizontal */
+#menuhori {
+    display: flex;
+    gap: 30px;
+}
+
+/* Section principale et menu latéral */
+main h1 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+main {
+    flex: 0 0 250px;
+    padding-right: 20px;
+}
+
+section {
+    flex: 1;
+}
+
+/* Articles avec images flottantes */
+article img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    max-width: 200px;
+    height: auto;
+}
+
+article {
+    clear: both;
+    margin-bottom: 30px;
+}
+
+article h2 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+/* Pied de page (footer) */
+footer {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer a:hover {
+    color: #0066cc;
+}
+
+footer p {
+    margin: 0;
+}
+/* En-tête (header) */
+header {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+header p {
+    margin: 0 0 20px 0;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+/* Menu principal (nav) */
+nav a {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #0066cc;
+}
+
+/* Menu horizontal */
+#menuhori {
+    display: flex;
+    gap: 30px;
+    clear: both;
+}
+
+/* Section principale et menu latéral */
+main h1 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+main {
+    flex: 0 0 250px;
+    padding-right: 20px;
+}
+
+section {
+    flex: 1;
+}
+
+/* Articles avec images flottantes */
+article img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    max-width: 120px;
+    height: auto;
+}
+aucun
+article {
+    margin-bottom: 30px;
+}
+
+article h2 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    clear: left;
+}
+
+/* Pied de page (footer) */
+footer {
+    clear: both;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer a:hover {
+    background-color: darkred;
+}
+
+footer p {
+    margin: 0;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+/* En-tête (header) */
+header {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+header p {
+    margin: 0 0 20px 0;
+    padding: 10px;
+}
+
+/* Menu principal (nav) */
+nav a {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #0066cc;
+}
+
+/* Menu horizontal */
+#menuhori {
+    display: flex;
+    gap: 30px;
+    clear: both;
+}
+
+/* Section principale et menu latéral */
+main h1 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+main p {
+    padding: 10px;
+}
+
+main {
+    flex: 0 0 250px;
+    padding-right: 20px;
+}
+
+section {
+    flex: 1;
+}
+
+/* Articles avec images flottantes */
+article img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    max-width: 120px;
+    height: auto;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+article h2 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    clear: left;
+}
+
+article p {
+    padding: 10px;
+}
+
+/* Pied de page (footer) */
+footer {
+    clear: both;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer a:hover {
+    background-color: darkred;
+}
+
+footer p {
+    margin: 0;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+/* En-tête (header) */
+header {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+header p {
+    margin: 0 0 20px 0;
+    padding: 10px;
+}
+
+/* Menu principal (nav) */
+nav a {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #0066cc;
+}
+
+/* Menu horizontal */
+#menuhori {
+    display: flex;
+    gap: 30px;
+    clear: both;
+}
+
+/* Section principale et menu latéral */
+main h1 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+main p {
+    padding: 10px;
+}
+
+main {
+    flex: 0 0 250px;
+    padding-right: 20px;
+}
+
+section {
+    flex: 1;
+}
+
+/* Articles avec images flottantes */
+article img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    max-width: 120px;
+    height: auto;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+article h2 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    clear: left;
+}
+
+article p {
+    padding: 10px;
+}
+
+/* Pied de page (footer) - BACKGROUND ROUGE PARTOUT */
+footer {
+    clear: both;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+    background-color: red;
+    align-items: flex-start;
+}
+
+footer p {
+    margin: 0;
+    color: white;
+    padding: 10px;
+    order: -1;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer a:hover {
+    background-color: darkred;
+}
+/* Pied de page (footer) */
+footer {
+    clear: both;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+    background-color: red;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer a:hover {
+    background-color: darkred;
+}
+
+footer p {
+    margin: 0;
+    color: white;
+    padding: 10px;
+}
+/* Pied de page (footer) */
+footer {
+    clear: both;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+    background-color: red;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer a:hover {
+    background-color: darkred;
+}
+
+footer p {
+    margin: 0;
+    color: white;
+    padding: 10px;
+}
+section article h2 {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    clear: left;
+}
+/* En-tête (header) */
+header {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+header p {
+    margin: 0 0 20px 0;
+    padding: 10px;
+}
+
+/* Menu principal (nav) */
+nav a {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #0066cc;
+}
+
+/* Menu horizontal */
+#menuhori {
+    display: flex;
+    gap: 30px;
+    clear: both;
+}
+
+/* Section principale et menu latéral */
+main h1 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+main p {
+    padding: 10px;
+}
+
+main {
+    flex: 0 0 250px;
+    padding-right: 20px;
+}
+
+section {
+    flex: 1;
+}
+
+/* Articles avec images flottantes */
+article img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    max-width: 120px;
+    height: auto;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+article h2 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    clear: left;
+}
+
+article p {
+    padding: 10px;
+}
+
+/* H2 des articles dans la section - BACKGROUND BLANC */
+section article h2 {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    clear: left;
+}
+
+/* Pied de page (footer) - ENTIEREMENT ROUGE */
+footer {
+    clear: both;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+    background-color: red;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+footer p {
+    margin: 0;
+    color: white;
+    padding: 10px;
+    order: -1;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer a:hover {
+    background-color: darkred;
+}
